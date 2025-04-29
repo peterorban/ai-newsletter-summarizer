@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.pickle
+newsletter_summary.docx
+venv/
+__pycache__/
+.DS_Store
